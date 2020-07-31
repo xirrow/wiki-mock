@@ -1,0 +1,142 @@
+.margin-push {
+    margin-top: 40px;
+}
+
+.col-1-border {
+    border-right: 2px solid #A7D7F9;
+}
+
+.wiki-logo {
+    margin: 0 0 0 -23px;
+}
+
+.jumbotron {
+    background-color: #F9F9F9;
+    border: 1px solid #a9a9a9;
+    border-radius: 0;
+    padding: 40px 0 0 0;
+}
+
+a {
+    color: #1954AD;
+}
+
+.jumbotron-links ul {
+    margin-top: -25px;
+    display: inline-block;
+    font-size: 12px;
+    color: #3B99E8;
+}
+
+.side-menu {
+    background-color: #F9F9F9;
+}
+
+.alert-success {
+    color: #000000;
+    font-weight: bold;
+    padding: 3px;
+    border-radius: 0;
+    border-color: #A3BFB1;
+}
+
+.alert-primary {
+    color: #000000;
+    background-color: #CEDFF2;
+    font-weight: bold;
+    padding: 3px;
+    border-radius: 0;
+    border-color: #A3B0BF;
+}
+
+.alert-light {
+    border-color: #A3B0BF;
+    border-radius: 0;
+    width: 835px;
+    height: 55px;
+    margin: -5px 0 0 15px;
+    text-align: center;
+}
+
+ul.alert-light-links {
+    list-style: none;
+}
+
+ul.alert-light-links li {
+    display: inline-block;
+    margin: 0 2px 0 0;
+}
+
+.alert-light-text {
+    margin: -7px 0 0 0;
+}
+
+.table {
+    display: table;
+    margin 0 auto;
+}
+
+.h4-details {
+    margin-top: -25px;
+    text-align: center;
+    padding-right: 500px;
+}
+
+.h4-details p {
+    font-size: 12px;
+}
+
+.green-articles {
+    font-size: 14px;
+}
+
+.green-article1 {
+    margin-bottom: 15px;
+}
+
+.green-box {
+    background-color: #F5FEFA;
+    border: 1px solid #CEF2E0;
+    padding: 10px;
+}
+
+.blue-articles {
+    font-size: 14px;
+}
+
+.blue-article1 {
+    margin-bottom: 15px;
+}
+
+.blue-box {
+    background-color: #F5FAFF;
+    border: 1px solid #CEDFF2;
+    padding: 10px;
+}
+
+.in-the-news img {
+    margin: 0 0 0 -8px;
+}
+
+.najib p {
+    float: right;
+    margin: 0 2px 0 0;
+}
+
+.in-the-news ul {
+    margin: 0 0 0 20px;
+}
+
+#first-paragraph {
+    margin: 8px 0 0 0;
+}
+
+#nominate-an-article {
+    float: right;
+    margin: 0 -145px 5px 0;
+}
+
+.brother-jonathan {
+    float: right;
+    margin: 0 0 0 40px;
+}
